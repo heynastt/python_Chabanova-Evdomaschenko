@@ -1,6 +1,6 @@
 import pygame
 from settings import *
-from game_state import *
+#from game_state import *
 from objects.plblock import Plblock
 from objects.platform import Platform
 from objects.ball import Ball
